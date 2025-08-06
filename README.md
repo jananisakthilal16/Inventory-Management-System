@@ -27,3 +27,8 @@ This is a simple Python-based Inventory Management System to manage products, st
 2. Run:
    ```bash
    python inventory_system.py
+## 📸 Sample Output
+
+![Output 1](inventory%20system%20output%201.png)
+![Output 2](inventory%20system%20output%202.png)
+
